@@ -5,11 +5,11 @@ I am a Web Developer who loves to code and create new apps 💻
 
 I have passion and drive to learn more and am looking forward to collaborate with other devs. 
 
-[Portfolio](https://portfolio-js.martakode.vercel.app/)  
+I am working on my [Portfolio](https://portfolio-js.martakode.vercel.app/)  
 
-[Linkedln](https://www.linkedin.com/in/marta-janina-krawczyk/) 
+You can connect with me on [Linkedln](https://www.linkedin.com/in/marta-janina-krawczyk/) 
 
-email: <martaalicja113@gmail.com> 
+You can contact me at email: <martaalicja113@gmail.com> 
 
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
