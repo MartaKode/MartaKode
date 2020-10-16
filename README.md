@@ -11,7 +11,8 @@ You can connect with me on [Linkedln](https://www.linkedin.com/in/marta-janina-k
 
 You can contact me at email: <martaalicja113@gmail.com> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartaKode)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartaKode&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartaKode&theme=vision-friendly-dark)](https://github.com/MartaKode/github-readme-stats) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartaKode&show_icons=true)  
 
 
 <!--
