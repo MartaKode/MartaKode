@@ -28,10 +28,11 @@ Skills: JavaScript | React | Redux | Node.js | Jest | Express | Python | HTML | 
 
 
 [![Gmail Badge](https://img.shields.io/badge/-martaalicja113@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:martaalicja113@gmail.com)](mailto:martaalicja113@gmail.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/marta-janina-krawczyk/) 
 [![Github Badge](https://img.shields.io/badge/-MartaKode-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MartaKode/)](https://www.github.com/MartaKode/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=martakode.vercel.app/)](https://martakode.vercel.app/)
 ![Profile views](https://gpvc.arturio.dev/MartaKode)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/marta-janina-krawczyk/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://martakode.vercel.app/)  
+
+
 <!--
 **MartaKode/MartaKode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
