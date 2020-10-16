@@ -24,10 +24,8 @@ Skills: JavaScript | React | Redux | Node.js | Jest | Express | Python | HTML | 
 
 ## Some of my Github Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=MartaKode&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt)](https://github.com/MartaKode/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartaKode&layout=compact&theme=cobalt)](https://github.com/MartaKode/github-readme-stats)
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=MartaKode&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt)](https://github.com/MartaKode/github-readme-stats)
 
 
 [![Gmail Badge](https://img.shields.io/badge/-martaalicja113@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:martaalicja113@gmail.com)](mailto:martaalicja113@gmail.com) 
