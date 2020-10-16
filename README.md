@@ -11,12 +11,8 @@ You can connect with me on [Linkedln](https://www.linkedin.com/in/marta-janina-k
 
 You can contact me at email: <martaalicja113@gmail.com> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartaKode)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartaKode&show_icons=true)  
 
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Jest-informational?style=flat&logo=Jest&logoColor=white&color=2bbc8a)
 
 <!--
 **MartaKode/MartaKode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
