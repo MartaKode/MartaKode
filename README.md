@@ -21,8 +21,7 @@ You can contact me at email: <martaalicja113@gmail.com>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartaKode&layout=compact)](https://github.com/MartaKode/github-readme-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=MartaKode&show_icons=true&include_all_commits=true)](https://github.com/MartaKode/github-readme-stats)
 
-<br />
-<br />
+
 
 [![Gmail Badge](https://img.shields.io/badge/-martaalicja113@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:martaalicja113@gmail.com)](mailto:martaalicja113@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-MartaKode-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MartaKode/)](https://www.github.com/MartaKode/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=martakode.vercel.app/)](martakode.vercel.app/)
