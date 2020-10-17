@@ -26,14 +26,16 @@ Skills:
 ![](https://img.shields.io/badge/-HTML5-ff69b4?color=193549&label=%20&logo=html5&logoColor=e8e) |
 ![](https://img.shields.io/badge/-CSS-ff69b4?color=193549&label=%20&logo=css-wizardry&logoColor=e8e) 
 
+<br />
+<br />
+
 - 💬 Ask me about my favorite food 🥟 
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I was born and raised in Poland 🥟 
 
 <br />
 <br />
-<br />
-<br />
+
 
 ## Some of my Github Stats📈
 
