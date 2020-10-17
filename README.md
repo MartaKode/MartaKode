@@ -12,6 +12,12 @@ You can connect with me on [Linkedln](https://www.linkedin.com/in/marta-janina-k
 
 You can contact me at email: <martaalicja113@gmail.com> 
 
+- 💬 Ask me about my favorite food 🥟 
+- 😄 Pronouns: she/her 
+- ⚡ Fun fact: I was born and raised in Poland 🥟 
+<br />
+<br />
+
 Skills:
 
 ![](https://img.shields.io/badge/-JavaScript-darkslategray?color=193549&label=%20&logo=javascript&logoColor=e8e) |
@@ -27,9 +33,7 @@ Skills:
 ![](https://img.shields.io/badge/-CSS-ff69b4?color=193549&label=%20&logo=css-wizardry&logoColor=e8e) 
 
 
-- 💬 Ask me about my favorite food 🥟 
-- 😄 Pronouns: she/her 
-- ⚡ Fun fact: I was born and raised in Poland 🥟 
+
 <br />
 <br />
 <br />
