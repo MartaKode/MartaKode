@@ -22,7 +22,7 @@ Skills: JavaScript | React | Redux | Node.js | Jest | Express | Python | HTML | 
 <br />
 <br />
 
-## Some of my Github Stats
+## Some of my Github Stats📈
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartaKode&layout=compact&theme=cobalt)](https://github.com/MartaKode/github-readme-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=MartaKode&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt)](https://github.com/MartaKode/github-readme-stats)
