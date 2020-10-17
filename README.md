@@ -1,4 +1,15 @@
 ### Hi there 👋, my name is Marta 
+![](https://img.shields.io/badge/-JavaScript-darkslategray?color=193549&label=%20&logo=javascript&logoColor=e8e)
+![](https://img.shields.io/badge/-React-darkslategray?color=193549&label=%20&logo=React&logoColor=e8e)
+![](https://img.shields.io/badge/-Redux-ff69b4?color=193549&label=%20&logo=redux&logoColor=e8e)
+![](https://img.shields.io/badge/-Node.js-ff69b4?color=193549&label=%20&logo=node.js&logoColor=e8e)
+![](https://img.shields.io/badge/-Jest-ff69b4?color=193549&label=%20&logo=jest&logoColor=e8e)
+![](https://img.shields.io/badge/-Express.js-ff69b4?color=193549&label=%20&logo=express&logoColor=e8e)
+![](https://img.shields.io/badge/-SQLite-ff69b4?color=193549&label=%20&logo=SQLite&logoColor=e8e)
+![](https://img.shields.io/badge/-PostgresSQL-ff69b4?color=193549&label=%20&logo=postgresql&logoColor=e8e)
+![](https://img.shields.io/badge/-Python-ff69b4?color=193549&label=%20&logo=python&logoColor=e8e)
+![](https://img.shields.io/badge/-HTML5-ff69b4?color=193549&label=%20&logo=html5&logoColor=e8e)
+![](https://img.shields.io/badge/-CSS-ff69b4?color=193549&label=%20&logo=css3&logoColor=e8e)
 <!-- ![](https://media.giphy.com/media/jAtdhWRyJxgyiurJTO/giphy.gif) -->
 <img align="right" src="https://media.giphy.com/media/jAtdhWRyJxgyiurJTO/giphy.gif" >
 
@@ -16,19 +27,8 @@ You can contact me at email: <martaalicja113@gmail.com>
 <br />
 <br />
 <br />
-Skills:
 
-![](https://img.shields.io/badge/-JavaScript-darkslategray?color=193549&label=%20&logo=javascript&logoColor=e8e)
-![](https://img.shields.io/badge/-React-darkslategray?color=193549&label=%20&logo=React&logoColor=e8e)
-![](https://img.shields.io/badge/-Redux-ff69b4?color=193549&label=%20&logo=redux&logoColor=e8e)
-![](https://img.shields.io/badge/-Node.js-ff69b4?color=193549&label=%20&logo=node.js&logoColor=e8e)
-![](https://img.shields.io/badge/-Jest-ff69b4?color=193549&label=%20&logo=jest&logoColor=e8e)
-![](https://img.shields.io/badge/-Express.js-ff69b4?color=193549&label=%20&logo=express&logoColor=e8e)
-![](https://img.shields.io/badge/-SQLite-ff69b4?color=193549&label=%20&logo=SQLite&logoColor=e8e)
-![](https://img.shields.io/badge/-PostgresSQL-ff69b4?color=193549&label=%20&logo=postgresql&logoColor=e8e)
-![](https://img.shields.io/badge/-Python-ff69b4?color=193549&label=%20&logo=python&logoColor=e8e)
-![](https://img.shields.io/badge/-HTML5-ff69b4?color=193549&label=%20&logo=html5&logoColor=e8e)
-![](https://img.shields.io/badge/-CSS-ff69b4?color=193549&label=%20&logo=css3&logoColor=e8e)
+
 
 <br />
 <br />
