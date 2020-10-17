@@ -14,7 +14,8 @@ You can contact me at email: <martaalicja113@gmail.com>
 
 <br />
 <br />
-
+<br />
+<br />
 Skills:
 
 ![](https://img.shields.io/badge/-JavaScript-darkslategray?color=193549&label=%20&logo=javascript&logoColor=e8e) |
