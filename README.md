@@ -1,8 +1,9 @@
 ![Profile views](https://gpvc.arturio.dev/MartaKode)
 [![Github Badge](https://img.shields.io/badge/-MartaKode-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MartaKode/)](https://www.github.com/MartaKode/) 
-<!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=martakode.vercel.app/)](https://martakode.vercel.app/) --> 
 [![Gmail Badge](https://img.shields.io/badge/-martaalicja113@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:martaalicja113@gmail.com)](mailto:martaalicja113@gmail.com) 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?color=193549&label=%20&logo=linkedin&logoColor=e8e?link=?link=https://www.linkedin.com/in/marta-janina-krawczyk/left&link=https://www.linkedin.com/in/marta-janina-krawczyk/&style=social)
+
+<!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=martakode.vercel.app/)](https://martakode.vercel.app/) --> 
 
 ### Hi there 👋, my name is Marta 
 
