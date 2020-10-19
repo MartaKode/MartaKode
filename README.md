@@ -7,6 +7,9 @@
 ### Hi there 👋, my name is Marta 
 
 <!-- ![](https://media.giphy.com/media/jAtdhWRyJxgyiurJTO/giphy.gif) -->
+<br />
+<br />
+
 <img align="right" src="https://media.giphy.com/media/jAtdhWRyJxgyiurJTO/giphy.gif" >
 
 I am a Web Developer who loves to code and create new apps 👩‍💻
