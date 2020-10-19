@@ -21,7 +21,6 @@ I have passion and drive to learn more and am looking forward to collaborate wit
 <br />
 <br />
 <br />
-<br />
 
 
 You can connect with me on [Linkedln](https://www.linkedin.com/in/marta-janina-krawczyk/) 
