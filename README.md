@@ -39,9 +39,9 @@ You can contact me at email: <martaalicja113@gmail.com>
 <br />
 <br />
 
-- 💬 Ask me about my favorite food 🥟 
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: I was born and raised in Poland 🥟 
+- 💬 Ask me about my favorite food 🥟 
+- ⚡ Fun fact: I was born and raised in Poland 🥟​🇵🇱​🏰​
 
 <br />
 <br />
